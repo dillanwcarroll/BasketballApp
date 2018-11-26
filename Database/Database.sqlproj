@@ -60,4 +60,11 @@
     <Folder Include="Tables" />
     <Folder Include="Scripts" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Tables\Game.sql" />
+    <Build Include="Tables\People.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
+  </ItemGroup>
 </Project>

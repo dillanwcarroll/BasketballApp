@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueShoutPractice", "TrueShoutPractice\TrueShoutPractice.csproj", "{E0568244-6EAF-4690-9CB7-02D48984FAA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballApp", "TrueShoutPractice\BasketballApp.csproj", "{E0568244-6EAF-4690-9CB7-02D48984FAA7}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{D5D654B9-8536-4810-BE18-A987094EEFE4}"
 EndProject
